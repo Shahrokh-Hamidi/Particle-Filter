@@ -1,8 +1,9 @@
--	Tracking based on Particle Filtering
--	Kalman filtering with constant velocity model has been implemented
--	To detect the moving object background subtraction can be used. 
+Tracking based on Particle Filtering
+-	The surviving particles are chosen based on the genetic algorithm 
+-	To perform the tracking, Kalman filtering with constant velocity model has been implemented 
+-	Detection can be performed based on background subtraction
 -	The number of particles is 1000 
--	The initial position of the particles are based on uniform distribution function so that all the pixels have the same chance to be covered by them
+
 
 
 
