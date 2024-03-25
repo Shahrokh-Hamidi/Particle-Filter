@@ -4,7 +4,6 @@ Tracking based on Particle Filtering
 -	Detection can be performed based on background subtraction
 -	The number of particles is 1000 
 
-- Initial upload: January 2024
 
 https://github.com/Shahrokh-Hamidi/Particle-Filter/assets/156338354/32078e6e-6fd5-4dbb-97f6-b62ef5e796fa
 
