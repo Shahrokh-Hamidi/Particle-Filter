@@ -1,8 +1,9 @@
 Tracking based on Particle Filtering
--	The surviving particles are chosen based on the genetic algorithm 
--	To perform the tracking, Kalman filtering with constant velocity model has been implemented 
--	Detection can be performed based on background subtraction
--	The number of particles is 1000 
+-	The surviving particles are chosen based on the Genetic Algorithm 
+-	To perform the tracking, Kalman Filtering with Constant Velocity model has been implemented 
+-	Detection can be performed based on Background Subtraction
+-	The number of particles is 1000
+-	The project has been coded in Python3.  
 
 
 
